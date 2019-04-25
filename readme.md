@@ -6,7 +6,7 @@ Repository ini berisi materi tentang Matakuliah Statistika Terapan, yang diampu 
 
 1. [Penyajian Data](Penyajian_Data.ipynb)
 2. [Ukuran Pemusatan Data](Ukuran_Pemusatan_Data.ipynb)
-3. [Ukuran Persebaran Data]()
+3. [Ukuran Persebaran Data](Ukuran_Persebaran_Data.ipynb)
 4. [Populasi dan Sampel](Populasi_Sampel.ipynb)
 5. [Pengujian Normalitas Data](Uji_Normalitas.ipynb)
 6. [Konsep Dasar Uji Hipotesis](Konsep_Dasar_Uji_Hipotesis.ipynb)
